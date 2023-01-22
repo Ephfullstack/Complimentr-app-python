@@ -2,6 +2,9 @@
 
 This application is meant to be used with the [Introduction to APIs course](https://github.com/craigsdennis/intro-to-apis-course).
 
+You can visit it by [clicking here](https://ephfullstack-complimentr.glitch.me
+)!
+
 ## Use this on Glitch
 
 [Remix on Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/craigsdennis/intro-to-apis-flask)
